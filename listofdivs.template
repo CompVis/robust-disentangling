@@ -1,0 +1,130 @@
+								<div class="image fit captioned">
+                  <div class="videocontainer">
+                  <video poster="images/ntu.jpg" controls class="videothing">
+                   <source src="images/ntu.webm" type="video/webm">
+                   Your browser does not support the video tag.
+                  </video>
+                  </div>
+                  <h3>Video synthesis on the NTU dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <div class="videocontainer">
+                  <video poster="images/bbc.jpg" controls class="videothing">
+                   <source src="images/bbc.webm" type="video/webm">
+                   Your browser does not support the video tag.
+                  </video>
+                  </div>
+                  <h3>Video synthesis on the BBC dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <div class="videocontainer">
+                  <video poster="images/norb.jpg" controls class="videothing">
+                   <source src="images/norb.webm" type="video/webm">
+                   Your browser does not support the video tag.
+                  </video>
+                  </div>
+                  <h3>Video synthesis on the NORB dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/teaser.png">
+									<img src="images/teaser.jpg" alt="" />
+                  </a>
+									<h3>Retrieval and synthesis using disentangled shape and appearance.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/bbc_matrix.png">
+									<img src="images/bbc_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the BBC dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/animals_matrix.png">
+									<img src="images/animals_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on animals.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/ntu_matrix.png">
+									<img src="images/ntu_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the NTU dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/vi_matrix.png">
+									<img src="images/vi_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the PKU dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/norb_matrix.png">
+									<img src="images/norb_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the NORB dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/full__vi_matrix.png">
+									<img src="images/full_vi_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the PKU dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/sprites_compare.png">
+									<img src="images/sprites_compare.jpg" alt="" />
+                  </a>
+									<h3>Comparison on the Sprites dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/full_ntu_matrix.png">
+									<img src="images/full_ntu_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the NTU dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/full_norb_matrix.png">
+									<img src="images/full_norb_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the NORB dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/df_interpolation.png">
+									<img src="images/df_interpolation.jpg" alt="" />
+                  </a>
+									<h3>Interpolation along pose (horizontal direction) and
+appearance (vertical direction).</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/full_df_matrix.png">
+									<img src="images/full_df_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the DeepFashion dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/full_bbc_matrix.png">
+									<img src="images/full_bbc_matrix.jpg" alt="" />
+                  </a>
+									<h3>Transfer results on the BBC dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/df_comparison.png">
+									<img src="images/df_comparison.jpg" alt="" />
+                  </a>
+									<h3>Comparison to our previous work <a
+href="https://compvis.github.io/vunet">VUNet</a> which relied on
+fully-supervised keypoint estimators.</h3>
+								</div>
