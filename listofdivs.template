@@ -79,6 +79,20 @@ appearance (vertical direction).</h3>
 								</div>
 ==========
 								<div class="image fit captioned">
+                  <a href="images/model_architecture.png">
+									<img src="images/model_architecture.jpg" alt="" />
+                  </a>
+									<h3>Overview of our model.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
+                  <a href="images/sprites_quantitative.png">
+									<img src="images/sprites_quantitative.jpg" alt="" />
+                  </a>
+									<h3>Quantitative comparison on the Sprites dataset.</h3>
+								</div>
+==========
+								<div class="image fit captioned">
                   <a href="images/norb_matrix.png">
 									<img src="images/norb_matrix.jpg" alt="" />
                   </a>
