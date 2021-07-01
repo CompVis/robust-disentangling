@@ -1,0 +1,19 @@
+model: robust_disentangling.edflow.TrainModel
+iterator: robust_disentangling.edflow.Trainer
+triplet_path: /export/home/pesser/src/triplet-reid/logs/df_pretrained2/train/checkpoints/triplet_reid.ckpt-99000
+
+dataset: robust_disentangling.data.StochasticPairs
+data_root: /export/home/pesser/src/tsvae/data/deepfashion
+data_csv: /export/home/pesser/src/tsvae/tsvae/data/deepfashion/filtered_train.csv
+data_avoid_identity: False
+data_flip: True
+
+batch_size: 16
+spatial_size: 256
+
+lr: 2.0e-4
+lr_decay_begin: 0
+lr_decay_end: 100000
+log_freq: 250
+ckpt_freq: 50000
+num_steps: 100001
